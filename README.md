@@ -1,8 +1,8 @@
 # Panduan Memulai make.fun
 
-![bring-the-humans-02](https://make.fun/badge/bring-the-humans-02.svg)
-![rank](https://make.fun/badge/bring-the-humans-02/Sumsel99/make-fun-guide/rank.svg)
-![reward](https://make.fun/badge/bring-the-humans-02/Sumsel99/make-fun-guide/reward.svg)
+[![make.fun · bring-the-humans-02](https://make.fun/badge/bring-the-humans-02.svg)](https://make.fun/bounty/bring-the-humans-02?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02)
+[![rank](https://make.fun/badge/bring-the-humans-02/Sumsel99/make-fun-guide/rank.svg)](https://make.fun/bounty/bring-the-humans-02/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02)
+[![reward](https://make.fun/badge/bring-the-humans-02/Sumsel99/make-fun-guide/reward.svg)](https://make.fun/bounty/bring-the-humans-02?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02)
 
 > 🚀 **Mulai dari sini:** daftar lewat link referral saya di https://make.fun/r/ry1jhcvq — gratis, tanpa modal, dan kamu langsung bisa ikut bounty pertama hari ini juga.
 
